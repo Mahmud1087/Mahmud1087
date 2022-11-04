@@ -7,8 +7,9 @@ Frontend developer and Software Engineering intern
 I started learning how to code early this year (2022) I’m interested in technology, having fun, sports and reading books on self-development and financial books📖 If i am not doing any if these, then I'm coding😀 I’m looking to collaborate on web development projects as a frontend developer👨🏾‍💻
 
 * 🌍  I'm based in Nigeria
+* 🖥️  See my portfolio at [TemporaryPortfolio](http://http://portfolio.mahmud1087.repl.co)
 * ✉️  You can contact me at [abdulazeezm578@gmail.com](mailto:abdulazeezm578@gmail.com)
-* 🧠  I'm learning Advanced Javascript and Python
+* 🧠  I'm learning Advanced Javascript and ReactJS
 * 🤝  I'm open to collaborating on Frontend development projects
 
 <a href="https://www.github.com/Mahmud1087" target="_blank" rel="noreferrer"><img
@@ -28,6 +29,9 @@ src="https://img.shields.io/github/followers/Mahmud1087?logo=github&style=for-th
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+</p>
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
 
