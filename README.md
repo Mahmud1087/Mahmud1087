@@ -8,7 +8,7 @@ Frontend developer, Technical writer, and Open source enthusiast
 * 🖥️  See my portfolio at [Portfolio](https://mahmud-abdulazeez.netlify.app/)
 * ✉️  You can contact me at [abdulazeezm578@gmail.com](mailto:abdulazeezm578@gmail.com)
 * 🧠  I build interactive and aesthetically pleasing web interfaces using ReactJS, TailwindCSS and other frontend tools
-* 🤝  I'm open to internships, junior roles and collaborating on web development projects
+* 🤝  I'm open to internships, junior frontend roles and collaborating on web development projects
 * 📖  Hobbies: Sports, reading books, and having fun
 
 <a href="https://www.github.com/Mahmud1087" target="_blank" rel="noreferrer"><img
