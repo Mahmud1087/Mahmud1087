@@ -4,9 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer, Technical writer, and Open source enthusiast
 -----------------------------------------------------------------
 
-I have passion for tech, I love sports, reading books on self-development and personal finance  .
-
-
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Portfolio](https://mahmud-abdulazeez.netlify.app/)
 * ✉️  You can contact me at [abdulazeezm578@gmail.com](mailto:abdulazeezm578@gmail.com)
