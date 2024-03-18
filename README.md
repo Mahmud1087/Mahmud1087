@@ -1,16 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmud Abdulazeez
 =========================================================================================================================================
 
-Frontend developer and Software Engineering intern
---------------------------------------------------
+Frontend developer, Technical writer, and Open source enthusiast
+-----------------------------------------------------------------
 
-I started learning how to code early this year (2022) I’m interested in technology, having fun, sports and reading books on self-development and financial books📖 If i am not doing any if these, then I'm coding😀 I’m looking to collaborate on web development projects as a frontend developer👨🏾‍💻
+I have passion for tech, I love sports, reading books on self-development and personal finance  .
+
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [TemporaryPortfolio](http://http://portfolio.mahmud1087.repl.co)
+* 🖥️  See my portfolio at [Portfolio](https://mahmud-abdulazeez.netlify.app/)
 * ✉️  You can contact me at [abdulazeezm578@gmail.com](mailto:abdulazeezm578@gmail.com)
-* 🧠  I'm learning Advanced Javascript and ReactJS
-* 🤝  I'm open to collaborating on Frontend development projects
+* 🧠  I build interactive and aesthetically pleasing web interfaces using ReactJS, TailwindCSS and other frontend tools
+* 🤝  I'm open to internships, junior roles and collaborating on web development projects
+* 📖  Hobbies: Sports, reading books, and having fun
 
 <a href="https://www.github.com/Mahmud1087" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mahmud1087?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
