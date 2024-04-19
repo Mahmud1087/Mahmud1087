@@ -5,9 +5,9 @@ Frontend developer, Technical writer, and Open source enthusiast
 -----------------------------------------------------------------
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Portfolio](https://mahmud-abdulazeez.netlify.app/)
-* ✉️  You can contact me at [abdulazeezm578@gmail.com](mailto:abdulazeezm578@gmail.com)
-* 🧠  I build interactive and aesthetically pleasing web interfaces using ReactJS, TailwindCSS and other frontend tools
+* 🖥️  See my portfolio at [My portfolio](https://enesi-dev.netlify.app/)
+* ✉️  You can contact me via [Email](mailto:abdulazeezm578@gmail.com)
+* 🧠  I build interactive and aesthetically pleasing web interfaces using ReactJS, Typescript, TailwindCSS and other frontend tools
 * 🤝  I'm open to internships, junior frontend roles and collaborating on web development projects
 * 📖  Hobbies: Sports, reading books, and having fun
 
