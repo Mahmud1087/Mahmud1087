@@ -8,7 +8,7 @@ Frontend developer, Technical writer, and Open source enthusiast
 * 🖥️  See my portfolio at [My portfolio](https://enesi-dev.netlify.app/)
 * ✉️  You can contact me via [Email](mailto:abdulazeezm578@gmail.com)
 * 🧠  I build interactive and aesthetically pleasing web interfaces using ReactJS, Typescript, TailwindCSS and other frontend tools
-* 🤝  I'm open to internships, junior frontend roles and collaborating on web development projects
+* 🤝  I'm open to internships, frontend roles and collaborating on web development projects
 * 📖  Hobbies: Sports, reading books, and having fun
 
 <a href="https://www.github.com/Mahmud1087" target="_blank" rel="noreferrer"><img
@@ -32,6 +32,7 @@ src="https://img.shields.io/github/followers/Mahmud1087?logo=github&style=for-th
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+  <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJS" /></a>
 </p>
 
 
