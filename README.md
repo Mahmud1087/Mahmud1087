@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmud Abdulazeez
 =========================================================================================================================================
 
-Frontend developer, Technical writer, and Open source enthusiast
+Frontend developer | ReactJS | NextJS
 -----------------------------------------------------------------
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My portfolio](https://enesi-dev.netlify.app/)
 * ✉️  You can contact me via [Email](mailto:abdulazeezm578@gmail.com)
-* 🧠  I build interactive and aesthetically pleasing web interfaces using ReactJS, Typescript, TailwindCSS and other frontend tools
-* 🤝  I'm open to internships, frontend roles and collaborating on web development projects
+* 🧠  I build interactive and aesthetically pleasing web interfaces using ReactJS/NextJS, Typescript, TailwindCSS, modern frontend libraries and tools
+* 🤝  I'm open to frontend roles and collaborating on web development projects
 * 📖  Hobbies: Sports, reading books, and having fun
 
 <a href="https://www.github.com/Mahmud1087" target="_blank" rel="noreferrer"><img
