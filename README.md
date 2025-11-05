@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmud Abdulazeez
 =========================================================================================================================================
 
-Frontend developer | ReactJS | NextJS
------------------------------------------------------------------
+Frontend developer specializing in ReactJs/NextJs | Open-source contributor | ServiceNow Enthusiast | Open to fintech opportunities
+---------------------------------------------------------------------------------
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My portfolio](https://enesi-dev.netlify.app/)
